@@ -1,0 +1,6 @@
+@AEMDemo_HostAddress = http://localhost:5056
+
+GET {{AEMDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
